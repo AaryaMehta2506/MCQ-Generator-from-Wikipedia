@@ -1,0 +1,13 @@
+# pip install beautifulsoup4
+# pip install mysql-connector-python
+# pip install requests
+# pip install faker
+
+# Database:
+# CREATE DATABASE IF NOT EXISTS mcqdb;
+# USE mcqdb;
+# CREATE TABLE IF NOT EXISTS mcqs_json (
+#     id INT AUTO_INCREMENT PRIMARY KEY,
+#     level ENUM('Easy', 'Medium', 'Difficult'),
+#     data JSON
+# );
