@@ -61,8 +61,8 @@ On successful run, you’ll see:
 Use phpMyAdmin or MySQL CLI to inspect the mcqs_json table.
 
 ## 📂 Project Structure
--mcq_generator.py (Main script)
--mcqdb.sql  (MySQL dump to create table)
+- mcq_generator.py (Main script)
+- mcqdb.sql  (MySQL dump to create table)
 
 ## 🤝 Contributing
 Contributions are welcome!
